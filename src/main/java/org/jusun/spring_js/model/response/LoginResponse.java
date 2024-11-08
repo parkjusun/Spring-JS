@@ -1,0 +1,1 @@
+package org.jusun.spring_js.model.response;public class LoginResponse {}

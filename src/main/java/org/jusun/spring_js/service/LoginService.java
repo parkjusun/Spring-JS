@@ -1,0 +1,1 @@
+package org.jusun.spring_js.service;import org.springframework.stereotype.Service;@Servicepublic class LoginService {}
